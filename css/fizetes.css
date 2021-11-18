@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+body {
+  box-sizing: border-box;
+  background-image: url("../kepek/hatter.jpg");
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+h2 {
+  text-align: center;
+}
+.kosartartalma {
+  text-align: center;
+}
+
+header {
+  grid-area: h;
+  font-size: 30px;
+  text-align: center;
+}
+main {
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
+nav {
+  grid-area: n;
+  display: flex;
+}
+nav a {
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid black;
+  border-radius: 5px;
+  text-decoration: none;
+}
+div {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+}
+
+article {
+  width: 100%;
+}

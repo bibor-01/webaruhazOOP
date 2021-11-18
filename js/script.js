@@ -2,7 +2,7 @@ $(function () {
   const szuloElem = $("section");
   const sablonElem = $(".termekek");
   const termekek = [];
-  let fajlnev = "termekek.json";
+  let fajlnev = "../json/termekek.json";
   let kosar = new Kosar();
   beolvas(fajlnev, termekek);
 
@@ -16,8 +16,9 @@ $(function () {
         });
         tomb.forEach(function (adat) {
           let ujElem = sablonElem.clone().appendTo(szuloElem);
-          const ujTermek = new Termekek(ujElem, adat);
+          const ujTermek = new TermekGaleria(ujElem, adat);
         });
+        
       },
     });
     sablonElem.remove();

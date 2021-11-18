@@ -1,0 +1,59 @@
+[
+  {
+    "nev": "Jade Satin",
+    "leiras": "Szórt fénnyel megvilágított helyet igényel.De kerüljük,hogy közvetlen napfény érje.",
+    "ar": 2990,
+    "kep": "../kepek/1.jpg"
+  },
+  {
+    "nev": "Karéjos kaktusz",
+    "leiras": " A közvetett világos fényt részesíti előnyben, de ne tedd tűző napra.",
+    "ar": 1990,
+    "kep": "../kepek/2.jpg"
+  },
+  {
+    "nev": "Zebra haworthia",
+    "leiras": "Erős, de nem közvetlen fényre van szüksége.",
+    "ar": 3490,
+    "kep": "../kepek/3.jpg"
+  },
+  {
+    "nev": "Ámpolna gyertyavirág",
+    "leiras": "A növény téli álmot alszik,ez alatt az idő alatt tartsuk világos, hűvös helyiségben és csak ritkán öntözzük.",
+    "ar": 3990,
+    "kep": "../kepek/7.jpg"
+  },
+  {
+    "nev": "Hidroponikus Calathea ",
+    "leiras": "Erős közvetett fényt részesíti előnyben, kerülje a közvetlen napfényt.",
+    "ar": 3990,
+    "kep": "../kepek/6.jpg"
+  },
+
+  {
+    "nev": "Nanouk Tradescantia",
+    "leiras": "Erősen fagyérzékeny, és nem nagyon kedveli a hideg huzatos helyeket.",
+    "ar": 1490,
+    "kep": "../kepek/5.jpg"
+  },
+  {
+    "nev": "Afrikai lándzsa",
+    "leiras": "Erős közvetett fényben helyezhető el a legjobban, de a legtöbb fényviszonyokat is jól tűri.",
+    "ar": 5190,
+    "kep": "../kepek/8.jpg"
+  },
+
+  {
+    "nev": "Könnyezőpálma",
+    "leiras": "Átlagos hőmérsékleten és félárnyékos helyen is szépen fejlődik, a tűző napot viszont nem bírja.",
+    "ar": 3990,
+    "kep": "../kepek/4.jpg"
+  },
+
+  {
+    "nev": "Fikusz",
+    "leiras": "Dzereti a közvetett fényt,nem nagyon szereti a közvetlen napfényt, ezért a világos szoba a legjobb, de nem ablakpárkányra helyezve.",
+    "ar": 7590,
+    "kep": "../kepek/9.jpg"
+  }
+]
