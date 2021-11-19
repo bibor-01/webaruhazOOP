@@ -2,7 +2,7 @@ $(function () {
     const szuloElem = $("table");
     const sablonElem = $(".termekek");
     const termekek = [];
-    let fajlnev = "../json/termekek.json";
+    let fajlnev = "http://localhost:3000/termekek";;
     beolvas(fajlnev, termekek);
   
   
